@@ -1,7 +1,7 @@
 # Mental Stress Analyzer
 
 ## Description
-A project aimed at analyzing stress-related patterns and indicators.
+A project aimed at analyzing stress-related patterns and indicators. It also helps you figure out the patterns of the users
 
 ## Features
 - Data analysis
